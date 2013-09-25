@@ -1,0 +1,9 @@
+{
+    "name": "prontotype/phpcrawl",
+    "description": "Composer-loadable mirror of the PHPCrawl project",
+    "homepage": "http://cuab.de/",
+    "version": "0.8.1",
+    "autoload": {
+        "classmap": ["libs/"]
+    }
+}
